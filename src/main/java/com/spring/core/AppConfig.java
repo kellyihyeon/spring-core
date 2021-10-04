@@ -14,6 +14,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 나의 애플리케이션 전체를 설정하고 구성
  * IoC 를 일으키고 있다. = IoC 컨테이너 or DI 컨테이너
+ * AppConfig - 팩토리 메서드
  */
 @Configuration
 public class AppConfig {
